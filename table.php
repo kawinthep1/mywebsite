@@ -27,14 +27,14 @@
         <td><a href="https://twitter.com/LisaSu">Facebook</a></td>
                <tr>
         <td>4</td>
-        <td>FS LAMMYSNAX</td>
-        <td><img src="https://fullsense.gg/wp-content/uploads/2022/01/Lammy.png" width="45px"></td>
-        <td><a href="https://www.facebook.com/LammyVAL">Facebook</a></td>
+        <td>Barack Hussein Obama</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/200px-President_Barack_Obama.jpg" width="45px"></td>
+        <td><a href="https://twitter.com/BarackObama">Facebook</a></td>
                   <tr>
         <td>5</td>
-        <td>FS CHALALALA</td>
-        <td><img src="https://fullsense.gg/wp-content/uploads/2022/01/Chlalala.png" width="45px"></td>
-        <td><a href="https://www.instagram.com/g_chanitpak/">Instagram</a></td>
+        <td>Lady Gaga</td>
+        <td><img src="https://hellothailand-assets.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/cache/2020/02/Lady-Gaga-2/4152343250.jpg" width="45px"></td>
+        <td><a href="https://www.instagram.com/ladygaga/">Instagram</a></td>
                      <tr>
       </tr>
     </table>
